@@ -6,5 +6,7 @@ public class Hello {
 //        new Person().hello();
         Person p = new Person();
         p.hello();
+        Integer age1 = 19 ;
+        System.out.println(age1);
    }
 }
